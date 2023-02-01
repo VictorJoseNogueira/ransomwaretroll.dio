@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7af8efd-dc8b-4c2b-9da6-242ae3e822e2" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/../loja/dados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loja/main1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/bradesco curso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/bradesco.curso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerador_de_senhas_com_interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gerador_de_senhas_com_interface/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +40,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/T-GAMER/PycharmProjects/intensivaopython&quot;
   }
 }</component>
   <component name="RecentsManager">
