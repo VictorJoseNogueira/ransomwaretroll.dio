@@ -5,6 +5,4 @@ site = requests.get('https://www.google.com/search?client=opera-gx&q=temperatura
 
 soup = BeautifulSoup(site, 'lxml')
 
-temperatura = soup.xpath('//*[@id="wob_tm"]')
-
-print(temperatura)
+print(soup)

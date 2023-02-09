@@ -47,4 +47,4 @@ def create_dictionary(clean_list):
 
 
 if __name__ == '__main__':
-    start('https://www.geeksforgeeks.org/python-programming-language/?ref=leftbarhttps://www.geeksforgeeks.org/python-programming-language/?ref=leftbar')
+    start('https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar')
